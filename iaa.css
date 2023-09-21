@@ -33,7 +33,7 @@ header{
     margin: 10px;
     line-height: 50px;
     flex-grow: 10;
-    width: 100px;
+    width: 50px;
     border-radius: 5px;
     border: 2px solid rgb(89, 15, 99);
 }
